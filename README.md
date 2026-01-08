@@ -1,7 +1,7 @@
 ## Oiii, eu sou a Gabriele dos Santos 👋
 
-🎓 Estudante do **curso técnico de Informática** no **CEDUP Abílio Paulo** — 2º ano  
-💻 Programo em **HTML**, sei um pouquinho de **CSS** e estou começando a estudar **JavaScript**, **React** e **TypeScript**!
+🎓 Estudante do curso técnico em Informática no CEDUP Abílio Paulo (3º ano).
+💻 Conhecimentos em HTML, noções de CSS, e atualmente em aprendizado de JavaScript, React e TypeScript.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
