@@ -1,8 +1,7 @@
 
 # 👋 Olá, eu sou Gabriele dos Santos
 
-🎓 Estudante do curso técnico em Informática no CEDUP Abílio Paulo (3º ano).  
-💻 Conhecimentos em desenvolvimento web com HTML, CSS, JavaScript e PHP.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
